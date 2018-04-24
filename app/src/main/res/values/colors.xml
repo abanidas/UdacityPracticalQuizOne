@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@android:color/transparent</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="myOverlayColor">#66ffffff</color>
+    <color name="myOverlayColorBlack">#66000000</color>
+    <color name="colorBlackOverlay">#55000000</color>
+</resources>
